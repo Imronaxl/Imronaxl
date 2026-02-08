@@ -13,7 +13,7 @@
 | **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) 
 | **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) 
 
-**📈 Ежедневно решаю задачи и участвую в соревнованиях!**
+**📈 Я активно решаю задачи и участвую в соревнованиях!**
 
 ---
 
