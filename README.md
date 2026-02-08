@@ -11,9 +11,9 @@
 | Платформа | Профиль | Рейтинг/Достижения |
 |-----------|---------|-------------------|
 | **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-Imeon-blue?logo=codeforces)](https://codeforces.com/profile/Imeon) | Specialist (1500+) |
-| **AtCoder** | [![AtCoder](https://img.shields.io/badge/AtCoder-Imeon-red?logo=atcoder)](https://atcoder.jp/users/Imeon) | 緑色 (Green) |
-| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) | 500+ решенных задач |
-| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) | 3★ Coder |
+| **AtCoder** | [![AtCoder](https://img.shields.io/badge/AtCoder-Imeon-red?logo=atcoder)](https://atcoder.jp/users/Imeon)
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) 
+| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) 
 
 **📈 Ежедневно решаю задачи и участвую в соревнованиях!**
 
