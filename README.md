@@ -111,7 +111,7 @@
 [![Email](https://img.shields.io/badge/Email-gimron34%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gimron34@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Imeon_AXL-26A5E4?logo=telegram&logoColor=white)](https://t.me/Imeon_AXL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/имрон-гулахмадзода) <!-- Добавьте реальную ссылку -->
-[![Резюме PDF](https://img.shields.io/badge/Резюме-PDF-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/tajik-fire/tajik-fire/raw/main/resume.pdf)
+[![Резюме PDF](https://img.shields.io/badge/Резюме-PDF-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Imronaxl/Imronaxl/main/Resume_ru_V1.8.7.pdf)
 
 </div>
 
