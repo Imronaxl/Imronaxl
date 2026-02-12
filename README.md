@@ -68,7 +68,7 @@
 ---
 
 ### **Full‑Stack Web‑приложение для проверки попадания точек на плоскости** (2026)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/Web4Lab/tree/main)
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/WebLab4)
 
 **Разработчик полного цикла**
 - Разработал full‑stack приложение на **Spring Boot (Java 17)** и **Angular 17** с JWT‑аутентификацией и интерактивной визуализацией на Canvas.
