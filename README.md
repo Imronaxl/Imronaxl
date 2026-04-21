@@ -67,6 +67,19 @@
 
 ---
 
+### WebSocket Chat | Real-time мессенджер с распределённой архитектурой (2026 - настоящее время)
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/websocket-chat)
+
+**Backend-разработчик (Pet-проект)**
+- Разработал асинхронный WebSocket-сервер с поддержкой комнат и мгновенной доставкой сообщений.
+- Реализовал горизонтальное масштабирование через Redis Pub/Sub для синхронизации между инстансами.
+- Внедрил механизмы отказоустойчивости: heartbeat, graceful shutdown, автоматическое удаление «зомби-соединений».
+- Спроектировал слой хранения сообщений на PostgreSQL с асинхронной записью без блокировки event-loop.
+- Настроил полную контейнеризацию сервисов (Docker Compose), мониторинг Prometheus и тесты WebSocket (pytest-asyncio).
+
+**Стек:** Python 3.12, FastAPI, WebSockets, Redis Pub/Sub, PostgreSQL, SQLAlchemy async, Alembic, Docker, pytest, Prometheus.
+
+
 ### **Full‑Stack Web‑приложение для проверки попадания точек на плоскости** (2026)
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/WebLab4)
 
