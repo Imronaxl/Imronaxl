@@ -67,7 +67,7 @@
 
 ---
 
-### WebSocket Chat | Real-time мессенджер с распределённой архитектурой (2026 - настоящее время)
+### WebSocket Chat | Real-time мессенджер с распределённой архитектурой (2026 - настоящее время(В процессе разработки))
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/websocket-chat)
 
 **Backend-разработчик (Pet-проект)**
