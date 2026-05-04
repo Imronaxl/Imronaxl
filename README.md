@@ -5,7 +5,7 @@
 
 ---
 
-## 🏆 Профили спортивного программирования
+##  Профили спортивного программирования
 
 | Платформа | Профиль | Рейтинг/Достижения |
 |-----------|---------|-------------------|
@@ -14,11 +14,11 @@
 | **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) | – |
 | **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) | – |
 
-**📈 Я активно решаю задачи и участвую в соревнованиях!**
+** Я активно решаю задачи и участвую в соревнованиях!**
 
 ---
 
-## 🛠️ Технический стек
+##  Технический стек
 
 ### **Языки программирования**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 Ключевые проекты
+##  Ключевые проекты
 
 ### **Tajik-Fire | Образовательная платформа** (2023 – настоящее время)
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/tajik-fire/tajik-fire.github.io)
@@ -112,7 +112,7 @@
 
 ---
 
-## 📚 Образование
+##  Образование
 
 **Университет ИТМО**, Санкт-Петербург  
 🎓 **Бакалавриат «Программной инженерии и компьютерной техники»** (2024 – 2028)  
@@ -120,21 +120,18 @@
 
 ---
 
-## 📊 Статистика GitHub
+##  Статистика GitHub
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajik-fire&show_icons=true&theme=radical&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajik-fire&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-**💡 Решения алгоритмических задач:**
+** Решения алгоритмических задач:**
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ImronKhak?theme=dark&font=Roboto)](https://leetcode.com/u/ImronKhak/)
 
 </div>
 
 ---
 
-## 📫 Контакты и ссылки
+##  Контакты и ссылки
 
 <div align="center">
 
