@@ -36,6 +36,7 @@
 ![Java Servlets/JSP](https://img.shields.io/badge/-Servlets%2FJSP-007396?logo=java&logoColor=white)
 ![FastCGI](https://img.shields.io/badge/-FastCGI-000000?logo=fastcgi&logoColor=white)
 ![Python Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Python Flask](https://img.shields.io/badge/-FastAPI-000000?logo=fastapi&logoColor=white)
 
 ### **Frontend**
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
