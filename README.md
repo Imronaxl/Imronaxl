@@ -7,12 +7,12 @@
 
 ##  Профили спортивного программирования
 
-| Платформа | Профиль | Рейтинг/Достижения |
+| Платформа | Профиль |
 |-----------|---------|-------------------|
-| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-Imeon-blue?logo=codeforces)](https://codeforces.com/profile/Imeon) | Specialist (1500+) |
+| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-Imeon-blue?logo=codeforces)](https://codeforces.com/profile/Imeon) |
 | **AtCoder** | [![AtCoder](https://img.shields.io/badge/AtCoder-Imeon-red?logo=atcoder)](https://atcoder.jp/users/Imeon) | – |
-| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) | – |
-| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) | – |
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) |
+| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) |
 
 ** Я активно решаю задачи и участвую в соревнованиях!**
 
