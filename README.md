@@ -125,7 +125,6 @@
 
 <div align="center">
   
-** Решения алгоритмических задач:**
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ImronKhak?theme=dark&font=Roboto)](https://leetcode.com/u/ImronKhak/)
 
 </div>
