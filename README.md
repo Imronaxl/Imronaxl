@@ -23,10 +23,9 @@ Backend-разработчик и студент бакалавриата Уни
 
 | Категория | Технологии |
 |---|---|
-| Языки | Python, Java, C++, TypeScript, SQL |
+| Языки | Python, Java, C++, SQL |
 | Backend | Spring Boot, Spring Security, FastAPI, Flask, REST API, JWT, Java Servlets/JSP |
 | Данные | PostgreSQL, SQLAlchemy (async), Alembic, Redis (Pub/Sub) |
-| Frontend | Angular, PrimeNG, SCSS |
 | Инфраструктура | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly |
 | Тестирование и мониторинг | pytest, pytest-asyncio, Prometheus |
 
@@ -42,7 +41,7 @@ Backend-разработчик и студент бакалавриата Уни
 
 **Проверка точек на плоскости — full-stack приложение** · 2026 · [репозиторий](https://github.com/Imronaxl/WebLab4)
 Full-stack сервис на Spring Boot и Angular 17 с JWT-аутентификацией и визуализацией на Canvas. Хранение результатов в PostgreSQL с пагинацией и фильтрацией.
-`Java · Spring Boot · Spring Security · Angular · TypeScript · PostgreSQL`
+`Java · Spring Boot · Spring Security · Angular · PostgreSQL`
 
 **Веб-приложение на Java Servlets (MVC)** · 2025 · [репозиторий](https://github.com/Imronaxl/tajik_fire)
 MVC-приложение: Servlets в роли контроллера, JSP — представления. Развёрнуто на WildFly.
@@ -70,8 +69,6 @@ MVC-приложение: Servlets в роли контроллера, JSP — �
 
 <div align="center">
 
-*Каждая ошибка — урок на будущее.*
-
 </div>
 
 ---
@@ -91,10 +88,9 @@ Backend developer and undergraduate student at ITMO University (Software Enginee
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, Java, C++, TypeScript, SQL |
+| Languages | Python, Java, C++, SQL |
 | Backend | Spring Boot, Spring Security, FastAPI, Flask, REST API, JWT, Java Servlets/JSP |
 | Data | PostgreSQL, SQLAlchemy (async), Alembic, Redis (Pub/Sub) |
-| Frontend | Angular, PrimeNG, SCSS |
 | Infrastructure | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly |
 | Testing & Monitoring | pytest, pytest-asyncio, Prometheus |
 
@@ -110,7 +106,7 @@ Server architecture with asynchronous solution checking and sandboxed code execu
 
 **Point-in-Polygon Checker — full-stack app** · 2026 · [repo](https://github.com/Imronaxl/WebLab4)
 Full-stack service built with Spring Boot and Angular 17, JWT authentication, and Canvas-based visualization. Results stored in PostgreSQL with pagination and filtering.
-`Java · Spring Boot · Spring Security · Angular · TypeScript · PostgreSQL`
+`Java · Spring Boot · Spring Security · Angular · PostgreSQL`
 
 **Java Servlets Web App (MVC)** · 2025 · [repo](https://github.com/Imronaxl/tajik_fire)
 Classic MVC application: Servlets as controller, JSP as view. Deployed on WildFly.
@@ -137,7 +133,5 @@ Key courses: Algorithms & Data Structures, Databases, Computer Networks, Web Tec
 📧 [gimron34@gmail.com](mailto:gimron34@gmail.com) · ✈️ [@TheChill_guyy](https://t.me/TheChill_guyy) · 📄 [Resume (PDF)](https://github.com/Imronaxl/Imronaxl/blob/main/Resume.pdf)
 
 <div align="center">
-
-*Every mistake is a lesson for the future.*
 
 </div>
