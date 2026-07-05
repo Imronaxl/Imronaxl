@@ -1,147 +1,92 @@
-# Имрон Гулахмадзода 
-
-🎓 Студент 2 курса Санкт-Петербургский государственный университет информационных технологий, механики и оптики (ИТМО), Факультет программной инженерии и компьютерной техники (2024–2028)  
-📍 Санкт-Петербург, Россия  
-
----
-
-##  Профили спортивного программирования
-
-| Платформа | Профиль |
-|-----------|---------|
-| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-Imeon-blue?logo=codeforces)](https://codeforces.com/profile/Imeon) |
-| **AtCoder** | [![AtCoder](https://img.shields.io/badge/AtCoder-Imeon-red?logo=atcoder)](https://atcoder.jp/users/Imeon) |
-| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-ImronKhak-orange?logo=leetcode)](https://leetcode.com/u/ImronKhak/) |
-| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-imeon-brown?logo=codechef)](https://www.codechef.com/users/imeon) |
-
----
-
-##  Технический стек
-
-### **Языки программирования**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-
-### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6F61?logo=rest&logoColor=white)
-![Java Servlets/JSP](https://img.shields.io/badge/-Servlets%2FJSP-007396?logo=java&logoColor=white)
-![FastCGI](https://img.shields.io/badge/-FastCGI-000000?logo=fastcgi&logoColor=white)
-![Python Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![Python Flask](https://img.shields.io/badge/-FastAPI-000000?logo=fastapi&logoColor=white)
-
-### **Frontend**
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/-PrimeNG-0078D4?logo=primeng&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-005A9C?logo=ajax&logoColor=white)
-
-### **Базы данных & Инфраструктура**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-### **Принципы & Методологии**
-![SOLID](https://img.shields.io/badge/-SOLID%20Principles-2C3E50?logo=solid&logoColor=white)
-![MVC](https://img.shields.io/badge/-MVC%20Pattern-8E44AD?logo=mvc&logoColor=white)
-
----
-
-##  Ключевые проекты
-
-### **Tajik-Fire | Образовательная платформа** (2023 – настоящее время)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/tajik-fire/tajik-fire.github.io)
-
-**Инициатор и Backend-разработчик**
-- Спроектировал и реализовал серверную архитектуру с асинхронной системой проверки решений
-- Внедрил механизм безопасного выполнения пользовательского кода с изоляцией процессов
-- **Стек:** Python, REST API, FastAPI, Docker, Linux
-
----
-
-### WebSocket Chat | Real-time мессенджер с распределённой архитектурой (2026 - настоящее время)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/websocket-chat)
-
-**Backend-разработчик (Pet-проект)**
-- Разработал асинхронный WebSocket-сервер с поддержкой комнат и мгновенной доставкой сообщений.
-- Реализовал горизонтальное масштабирование через Redis Pub/Sub для синхронизации между инстансами.
-- Внедрил механизмы отказоустойчивости: heartbeat, graceful shutdown, автоматическое удаление неактивных соединений.
-- Спроектировал слой хранения сообщений на PostgreSQL с асинхронной записью без блокировки event-loop.
-- Настроил полную контейнеризацию сервисов (Docker Compose), мониторинг Prometheus и тесты WebSocket (pytest-asyncio).
-
-**Стек:** Python 3.12, FastAPI, WebSockets, Redis Pub/Sub, PostgreSQL, SQLAlchemy async, Alembic, Docker, pytest, Prometheus.
-
-
-### **Full‑Stack Web‑приложение для проверки попадания точек на плоскости** (2026)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/WebLab4)
-
-**Разработчик полного цикла**
-- Разработал full‑stack приложение на **Spring Boot (Java 17)** и **Angular 17** с JWT‑аутентификацией и интерактивной визуализацией на Canvas.
-- Реализовал безопасное хранение данных пользователей и результатов проверок в **PostgreSQL** с пагинацией и фильтрацией.
-- Внедрил адаптивный интерфейс на **PrimeNG** и защиту маршрутов через Angular‑интерцепторы.
-- **Стек:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Angular, TypeScript, PrimeNG, SCSS.
-
----
-
-### **Веб-приложение на Java Servlets (MVC)** (2025)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Link-181717?logo=github)](https://github.com/Imronaxl/tajik_fire)
-
-- Создал приложение по шаблону MVC с использованием Servlets (контроллер) и JSP (представление)
-- Настроил развертывание на сервере приложений WildFly для production-среды
-- **Стек:** Java, Servlets, JSP, MVC, WildFly, jQuery
-
----
-
-## 🏅 Достижения и награды
-
+<p align="center">
+  <a href="#ru">🇷🇺 Русский</a> · <a href="#en">🇬🇧 English</a>
+</p>
+<a id="ru"></a>
+ 
+## Имрон Гулахмадзода — backend-разработчик
+ 
+Пишу backend на Java и Python: REST/gRPC API, асинхронная обработка, очереди сообщений, распределённые системы. Учусь на 3 курсе Университета ИТМО (факультет программной инженерии и компьютерной техники), увлекаюсь спортивным программированием.
+ 
+**Сейчас работаю над:**
+- IELTS Academic — платформа подготовки к экзамену (Next.js, FastAPI, PostgreSQL, Redis, интеграция с LLM)
+- WebSocket Chat — real-time мессенджер с горизонтальным масштабированием через Redis Pub/Sub
+### Стек
+ 
+| Область | Технологии |
+|---|---|
+| Языки | Java, Python, C++, TypeScript, SQL |
+| Backend | Spring Boot, Spring Security, FastAPI, Flask, gRPC, REST |
+| Данные и инфраструктура | PostgreSQL, Redis, Kafka, Docker, Linux, Git |
+ 
+### Проекты
+ 
+**[Tajik-Fire](https://github.com/tajik-fire/tajik-fire.github.io)** — образовательная платформа с асинхронной проверкой решений и изолированным выполнением пользовательского кода.
+`Python · FastAPI · Docker · Linux`
+ 
+**[WebSocket Chat](https://github.com/Imronaxl/websocket-chat)** — асинхронный real-time мессенджер: комнаты, heartbeat, graceful shutdown, горизонтальное масштабирование через Redis Pub/Sub, нагрузочные тесты на pytest-asyncio.
+`Python · FastAPI · WebSockets · Redis · PostgreSQL · Docker`
+ 
+**[WebLab4](https://github.com/Imronaxl/WebLab4)** — full-stack приложение для проверки попадания точек на плоскости с JWT-аутентификацией и визуализацией на Canvas.
+`Java · Spring Boot · Angular · PostgreSQL`
+ 
+### Достижения
+ 
 | Год | Соревнование | Результат |
-|-----|-------------|-----------|
-| **2026** | Национальная технологическая олимпиада (НТО) | 🥉 **III место** в студенческом треке по профилю «Цифровое месторождение» |
-| **2025, 2026** | Баттл вузов от Яндекса | 🏆 **Финалист** |
-| **2025** | Algo Cup от CS Space | 🏆 **Финалист** |
-| **2025-2026** | ICPC (International Collegiate Programming Contest) |  **Участник 1/4 финала** |
-| **2021-2023** | Республиканские олимпиады по программированию (Таджикистан) | 🏅 **Призёр** (многократный) |
-
+|---|---|---|
+| 2026 | Национальная технологическая олимпиада (НТО), трек «Цифровое месторождение» | III место |
+| 2025–2026 | Баттл вузов от Яндекса | Финалист |
+| 2025 | Algo Cup от CS Space | Финалист |
+| 2025–2026 | ICPC | 1/4 финала |
+| 2021–2023 | Республиканские олимпиады по программированию (Таджикистан) | Призёр |
+ 
+Профили: [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
+ 
+### Связаться
+ 
+Email: [gimron34@gmail.com](mailto:gimron34@gmail.com) · Telegram: [@TheChill_guyy](https://t.me/TheChill_guyy)
+ 
 ---
-
-##  Образование
-
-**Университет ИТМО**, Санкт-Петербург  
- **Бакалавриат «Программной инженерии и компьютерной техники»** (2024 – 2028)  
-*Ключевые курсы:* Алгоритмы и структуры данных, Компьютерные сети, Базы данных, Веб-технологии, Операционные системы
-
----
-
-##  Статистика GitHub
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ImronKhak?theme=dark&font=Roboto)](https://leetcode.com/u/ImronKhak/)
-
-</div>
-
----
-
-##  Контакты и ссылки
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-gimron34%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gimron34@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40Imeon_AXL-26A5E4?logo=telegram&logoColor=white)](https://t.me/Imeon_AXL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/имрон-гулахмадзода) <!-- Добавьте реальную ссылку -->
-[![Резюме PDF](https://img.shields.io/badge/Резюме-PDF-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Imronaxl/Imronaxl/blob/main/Resume.pdf)
-
-</div>
-
----
-
-<div align="center">
-    Каждая ошибка — урок на будущее.
-</div>
+ 
+<a id="en"></a>
+ 
+## Imron Gulakhmadzoda — Backend Developer
+ 
+I build backend systems in Java and Python: REST/gRPC APIs, asynchronous processing, message queues, distributed systems. 3rd-year student at ITMO University (Software Engineering and Computer Technology), with a competitive programming background.
+ 
+**Currently building:**
+- IELTS Academic — an exam-prep platform (Next.js, FastAPI, PostgreSQL, Redis, LLM integration)
+- WebSocket Chat — a real-time messenger with horizontal scaling via Redis Pub/Sub
+### Stack
+ 
+| Area | Technologies |
+|---|---|
+| Languages | Java, Python, C++, TypeScript, SQL |
+| Backend | Spring Boot, Spring Security, FastAPI, Flask, gRPC, REST |
+| Data & Infra | PostgreSQL, Redis, Kafka, Docker, Linux, Git |
+ 
+### Projects
+ 
+**[Tajik-Fire](https://github.com/tajik-fire/tajik-fire.github.io)** — an educational platform with an asynchronous solution-checking system and isolated execution of untrusted user code.
+`Python · FastAPI · Docker · Linux`
+ 
+**[WebSocket Chat](https://github.com/Imronaxl/websocket-chat)** — an asynchronous real-time messenger with rooms, heartbeat and graceful shutdown, horizontal scaling via Redis Pub/Sub, and load tests with pytest-asyncio.
+`Python · FastAPI · WebSockets · Redis · PostgreSQL · Docker`
+ 
+**[WebLab4](https://github.com/Imronaxl/WebLab4)** — a full-stack point-in-plane checking app with JWT authentication and Canvas visualization.
+`Java · Spring Boot · Angular · PostgreSQL`
+ 
+### Achievements
+ 
+| Year | Competition | Result |
+|---|---|---|
+| 2026 | National Technology Olympiad (NTO), "Digital Oilfield" track | 3rd place |
+| 2025–2026 | Yandex University Battle | Finalist |
+| 2025 | CS Space Algo Cup | Finalist |
+| 2025–2026 | ICPC | Quarterfinals |
+| 2021–2023 | Republican Programming Olympiads (Tajikistan) | Prize-winner |
+ 
+Profiles: [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
+ 
+### Contact
+ 
+Email: [gimron34@gmail.com](mailto:gimron34@gmail.com) · Telegram: [@TheChill_guyy](https://t.me/TheChill_guyy)
