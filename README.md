@@ -15,10 +15,6 @@ Backend-разработчик и студент бакалавриата Уни
 
 **Профили:** [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
 
-### Сейчас работаю над
-- **WebSocket Chat** — real-time мессенджер с горизонтальным масштабированием через Redis Pub/Sub
-- **Tajik-Fire** — образовательная платформа с автоматической проверкой решений
-
 ### Стек технологий
 
 | Категория | Технологии |
@@ -79,10 +75,6 @@ MVC-приложение: Servlets в роли контроллера, JSP — �
 Backend developer and undergraduate student at ITMO University (Software Engineering and Computer Technology, 2024–2028). I build asynchronous services, REST APIs, and horizontally scalable systems in Python and Java. Also active in competitive programming: ICPC, NTO, Yandex Battle of Universities.
 
 **Profiles:** [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
-
-### Currently building
-- **WebSocket Chat** — a real-time messenger with horizontal scaling via Redis Pub/Sub
-- **Tajik-Fire** — an educational platform with automated solution checking
 
 ### Tech Stack
 
