@@ -11,7 +11,7 @@
 <a id="ru"></a>
 ## О себе
 
-Backend-разработчик и студент бакалавриата Университета ИТМО (факультет программной инженерии и компьютерной техники, 2024–2028). Проектирую асинхронные сервисы, REST API и системы с горизонтальным масштабированием на Python и Java. Параллельно занимаюсь спортивным программированием: ICPC, НТО, Баттл вузов от Яндекса.
+Студент бакалавриата Университета ИТМО (факультет программной инженерии и компьютерной техники, 2024–2028). Проектирую асинхронные сервисы, REST API и системы с горизонтальным масштабированием на Python и Java. Параллельно занимаюсь спортивным программированием: ICPC, НТО, Баттл вузов от Яндекса.
 
 **Профили:** [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
 
@@ -22,10 +22,16 @@ Backend-разработчик и студент бакалавриата Уни
 | Языки | Python, Java, C++, SQL |
 | Backend | Spring Boot, Spring Security, FastAPI, Flask, REST API, JWT, Java Servlets/JSP |
 | Данные | PostgreSQL, SQLAlchemy (async), Alembic, Redis (Pub/Sub) |
-| Инфраструктура | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly |
-| Тестирование и мониторинг | pytest, pytest-asyncio, Prometheus |
+| Инфраструктура | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly, CI/CD, Grafana |
+| Тестирование и мониторинг | pytest, pytest-asyncio, Prometheus, JUnit5, Mockito |
+
 
 ### Проекты
+
+**AtlasOps — Платформа мониторинга инфраструктуры** · 2026 · [репозиторий](https://github.com/Imronaxl/AtlasOps)
+Production-подобная платформа для мониторинга и эксплуатации сервисов в Docker. Включает централизованный сбор метрик, визуализацию, систему оповещений, проверки доступности сервисов, автоматизацию резервного копирования и CI/CD.
+Реализованы Docker Compose-инфраструктура, Prometheus, Grafana, Alertmanager, Node Exporter, cAdvisor, Bash-автоматизация и GitHub Actions.
+`Python · FastAPI · Docker · Docker Compose · Prometheus · Grafana · Alertmanager · Linux · Bash · GitHub Actions`
 
 **WebSocket Chat — real-time мессенджер** · 2026 — н.в. · [репозиторий](https://github.com/Imronaxl/websocket-chat)
 Асинхронный WebSocket-сервер с поддержкой комнат и горизонтальным масштабированием через Redis Pub/Sub. Асинхронная запись сообщений в PostgreSQL (SQLAlchemy + Alembic) без блокировки event loop. Heartbeat, graceful shutdown, мониторинг Prometheus, нагрузочные тесты на pytest-asyncio.
@@ -72,7 +78,7 @@ MVC-приложение: Servlets в роли контроллера, JSP — �
 <a id="en"></a>
 ## About Me
 
-Backend developer and undergraduate student at ITMO University (Software Engineering and Computer Technology, 2024–2028). I build asynchronous services, REST APIs, and horizontally scalable systems in Python and Java. Also active in competitive programming: ICPC, NTO, Yandex Battle of Universities.
+Undergraduate student at ITMO University (Software Engineering and Computer Technology, 2024–2028). I build asynchronous services, REST APIs, and horizontally scalable systems in Python and Java. Also active in competitive programming: ICPC, NTO, Yandex Battle of Universities.
 
 **Profiles:** [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
 
@@ -83,10 +89,15 @@ Backend developer and undergraduate student at ITMO University (Software Enginee
 | Languages | Python, Java, C++, SQL |
 | Backend | Spring Boot, Spring Security, FastAPI, Flask, REST API, JWT, Java Servlets/JSP |
 | Data | PostgreSQL, SQLAlchemy (async), Alembic, Redis (Pub/Sub) |
-| Infrastructure | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly |
-| Testing & Monitoring | pytest, pytest-asyncio, Prometheus |
+| Infrastructure | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly,  CI/CD, Grafana |
+| Testing & Monitoring | pytest, pytest-asyncio, Prometheus, JUnit5, Mockito |
 
 ### Projects
+
+**AtlasOps — Infrastructure Monitoring Platform** · 2026 · [repository](https://github.com/Imronaxl/AtlasOps)
+Production-like infrastructure for monitoring and operating Docker services. Includes centralized metrics collection, visualization, alerting, health checks, backup automation and CI/CD.
+Implemented Docker Compose infrastructure, Prometheus, Grafana, Alertmanager, Node Exporter, cAdvisor, Bash automation scripts and GitHub Actions.
+`Python · FastAPI · Docker · Docker Compose · Prometheus · Grafana · Alertmanager · Linux · Bash · GitHub Actions`
 
 **WebSocket Chat — real-time messenger** · 2026 — present · [repo](https://github.com/Imronaxl/websocket-chat)
 Asynchronous WebSocket server with rooms and horizontal scaling via Redis Pub/Sub. Async message persistence to PostgreSQL (SQLAlchemy + Alembic) without blocking the event loop. Heartbeat, graceful shutdown, Prometheus monitoring, load tests with pytest-asyncio.
