@@ -19,7 +19,7 @@
 
 | Категория | Технологии |
 |---|---|
-| Языки | Python, Java, C++, SQL |
+| Языки | Python, Java, C++, SQL, Go |
 | Backend | Spring Boot, Spring Security, FastAPI, Flask, REST API, JWT, Java Servlets/JSP |
 | Данные | PostgreSQL, SQLAlchemy (async), Alembic, Redis (Pub/Sub) |
 | Инфраструктура | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly, CI/CD, Grafana |
@@ -33,6 +33,10 @@ Production-подобная платформа для мониторинга и 
 Реализованы Docker Compose-инфраструктура, Prometheus, Grafana, Alertmanager, Node Exporter, cAdvisor, Bash-автоматизация и GitHub Actions.
 `Python · FastAPI · Docker · Docker Compose · Prometheus · Grafana · Alertmanager · Linux · Bash · GitHub Actions`
 
+**go-api-gateway — production-style API Gateway** · 2026 · [репозиторий](https://github.com/Imronaxl/go-api-gateway)
+Разработан API Gateway на Go для управления входящим трафиком между клиентами и сервисами. Реализованы маршрутизация HTTP запросов, балансировка нагрузки, защита от перегрузки, валидация JWT, rate limiting, централизованное логирование и метрики. Проект направлен на демонстрацию практик построения устойчивого edge-сервиса для микросервисной архитектуры.
+`Go · API Gateway · Reverse Proxy · JWT · Middleware · Rate Limiting · Load Balancer · Circuit Breaker · Observability · Prometheus · Docker`
+
 **WebSocket Chat — real-time мессенджер** · 2026 — н.в. · [репозиторий](https://github.com/Imronaxl/websocket-chat)
 Асинхронный WebSocket-сервер с поддержкой комнат и горизонтальным масштабированием через Redis Pub/Sub. Асинхронная запись сообщений в PostgreSQL (SQLAlchemy + Alembic) без блокировки event loop. Heartbeat, graceful shutdown, мониторинг Prometheus, нагрузочные тесты на pytest-asyncio.
 `Python 3.12 · FastAPI · WebSockets · Redis · PostgreSQL · Docker`
@@ -40,6 +44,8 @@ Production-подобная платформа для мониторинга и 
 **Tajik-Fire — образовательная платформа** · 2023 — н.в. · [репозиторий](https://github.com/tajik-fire/tajik-fire.github.io)
 Серверная архитектура с асинхронной проверкой решений и изолированным исполнением пользовательского кода. Очередь задач для обработки параллельных запросов.
 `Python · FastAPI · C++ (checker) · Docker · Linux`
+
+
 
 **Проверка точек на плоскости — full-stack приложение** · 2026 · [репозиторий](https://github.com/Imronaxl/WebLab4)
 Full-stack сервис на Spring Boot и Angular 17 с JWT-аутентификацией и визуализацией на Canvas. Хранение результатов в PostgreSQL с пагинацией и фильтрацией.
@@ -86,7 +92,7 @@ Undergraduate student at ITMO University (Software Engineering and Computer Tech
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, Java, C++, SQL |
+| Languages | Python, Java, C++, SQL, Go |
 | Backend | Spring Boot, Spring Security, FastAPI, Flask, REST API, JWT, Java Servlets/JSP |
 | Data | PostgreSQL, SQLAlchemy (async), Alembic, Redis (Pub/Sub) |
 | Infrastructure | Docker, Docker Compose, Linux, bash, Git, GitHub Actions, Gradle, WildFly,  CI/CD, Grafana |
@@ -98,6 +104,11 @@ Undergraduate student at ITMO University (Software Engineering and Computer Tech
 Production-like infrastructure for monitoring and operating Docker services. Includes centralized metrics collection, visualization, alerting, health checks, backup automation and CI/CD.
 Implemented Docker Compose infrastructure, Prometheus, Grafana, Alertmanager, Node Exporter, cAdvisor, Bash automation scripts and GitHub Actions.
 `Python · FastAPI · Docker · Docker Compose · Prometheus · Grafana · Alertmanager · Linux · Bash · GitHub Actions`
+
+**go-api-gateway — production-style API Gateway** · 2026 · repository
+Built a Go-based API Gateway for routing HTTP traffic between clients and backend services. Implemented JWT authentication, rate limiting, circuit breaking, round-robin load balancing, structured logging, and observability with OpenTelemetry and Prometheus. The project demonstrates production-oriented patterns for building a resilient edge service in a microservice architecture.
+`Go · API Gateway · Reverse Proxy · JWT · Middleware · Rate Limiting · Load Balancer · Circuit Breaker · OpenTelemetry · Prometheus · Docker`
+
 
 **WebSocket Chat — real-time messenger** · 2026 — present · [repo](https://github.com/Imronaxl/websocket-chat)
 Asynchronous WebSocket server with rooms and horizontal scaling via Redis Pub/Sub. Async message persistence to PostgreSQL (SQLAlchemy + Alembic) without blocking the event loop. Heartbeat, graceful shutdown, Prometheus monitoring, load tests with pytest-asyncio.
