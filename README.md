@@ -36,6 +36,8 @@
 
 [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
 
+### Достижения
+
 - 1/4 финала **ICPC** (2025–2026)
 - 3 место на **НТО**, трек «Цифровое месторождение» (2026)
 - Финалист **Баттла вузов от Яндекса** (2025–2026) и **Algo Cup** от CS Space (2025)
@@ -84,6 +86,8 @@ A few more full-stack coursework projects (Spring Boot + Angular, Java Servlets/
 ### Competitive programming
 
 [Codeforces](https://codeforces.com/profile/Imeon) · [AtCoder](https://atcoder.jp/users/Imeon) · [LeetCode](https://leetcode.com/u/ImronKhak/) · [CodeChef](https://www.codechef.com/users/imeon)
+
+### achievements 
 
 - **ICPC** quarterfinal round (2025–2026)
 - **3rd place, NTO**, "Digital Oilfield" track (2026)
