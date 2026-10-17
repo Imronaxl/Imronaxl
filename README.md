@@ -25,8 +25,9 @@
 
 | Проект | Что делает | Стек |
 |---|---|---|
-| **[AtlasOps](https://github.com/Imronaxl/AtlasOps)** | Платформа мониторинга Docker-сервисов: метрики, алертинг, health-checks, автоматизация бэкапов, CI/CD | Python · FastAPI · Prometheus · Grafana |
+| **[DeliveryHigh](https://github.com/Imronaxl/DeliveryHigh)** | Сервис управления доставкой на **Java**: обработка заказов, отслеживание курьеров в реальном времени, асинхронное взаимодействие через Kafka и синхронизация данных через Redis | Java 21 · Spring Boot · PostgreSQL · Kafka · Redis · WebSocket · Docker · Prometheus |
 | **[go-api-gateway](https://github.com/Imronaxl/go-api-gateway)** | API Gateway на **Go**: балансировка нагрузки, circuit breaker, JWT-валидация, rate limiting | Go · Docker · Prometheus |
+| **[AtlasOps](https://github.com/Imronaxl/AtlasOps)** | Платформа мониторинга Docker-сервисов: метрики, алертинг, health-checks, автоматизация бэкапов, CI/CD | Python · FastAPI · Prometheus · Grafana |
 | **[WebSocket Chat](https://github.com/Imronaxl/websocket-chat)** | Real-time мессенджер с комнатами, горизонтальным масштабированием через Redis Pub/Sub | Python 3.12 · FastAPI · Redis · PostgreSQL |
 | **[Tajik-Fire](https://github.com/tajik-fire/tajik-fire.github.io)** | Образовательная платформа с изолированным исполнением кода и очередью задач | Python · FastAPI · C++ |
 
@@ -76,8 +77,9 @@ I build backend services and explore the engineering practices around them: asyn
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[AtlasOps](https://github.com/Imronaxl/AtlasOps)** | Docker infrastructure monitoring platform: metrics, alerting, health checks, backup automation, CI/CD | Python · FastAPI · Prometheus · Grafana |
+| **[DeliveryHigh](https://github.com/Imronaxl/DeliveryHigh)** | **Java** delivery management system: order processing, real-time courier tracking, asynchronous communication via Kafka, and courier location management with Redis | Java 21 · Spring Boot · PostgreSQL · Kafka · Redis · WebSockets · Docker · Prometheus |
 | **[go-api-gateway](https://github.com/Imronaxl/go-api-gateway)** | API Gateway written in **Go**: load balancing, circuit breaking, JWT validation, rate limiting | Go · Docker · Prometheus |
+| **[AtlasOps](https://github.com/Imronaxl/AtlasOps)** | Docker infrastructure monitoring platform: metrics, alerting, health checks, backup automation, CI/CD | Python · FastAPI · Prometheus · Grafana |
 | **[WebSocket Chat](https://github.com/Imronaxl/websocket-chat)** | Real-time messenger with rooms, horizontal scaling via Redis Pub/Sub | Python 3.12 · FastAPI · Redis · PostgreSQL |
 | **[Tajik-Fire](https://github.com/tajik-fire/tajik-fire.github.io)** | Educational platform with sandboxed code execution and a task queue | Python · FastAPI · C++ |
 
