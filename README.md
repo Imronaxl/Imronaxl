@@ -6,7 +6,7 @@
 
 <br>
 
-## Русская версия
+## RU
 
 Разрабатываю backend-сервисы и изучаю инженерные практики вокруг них: асинхронность, очереди, кэширование, PostgreSQL, Redis, контейнеризация, мониторинг и CI/CD. Интересуюсь тем, как проектировать надёжные сервисы и обеспечивать их стабильную работу. Студент 3 курса ИТМО по направлению «Информатика и вычислительная техника» (2024–2028).
 
@@ -58,7 +58,7 @@
 
 ---
 
-## English version
+## ENG
 
 I build backend services and explore the engineering practices around them: asynchronous processing, queues, caching, PostgreSQL, Redis, containerization, monitoring, and CI/CD. I’m interested in designing reliable services and understanding what it takes to keep them stable in production. 3rd-year ITMO University student, BSc in Computer Science and Engineering (2024–2028).
 
